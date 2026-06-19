@@ -1003,7 +1003,7 @@ function App() {
         <div className="dashboard-content">
           <header className="dashboard-header">
             <div>
-              <h1>{userRole === 'pelanggan' ? "Donn's Parfum" : 'Dashboard Parfum'}</h1>
+              <h1>{userRole === 'pelanggan' ? "Donn's Parfum" : 'Beranda'}</h1>
             </div>
           </header>
 
